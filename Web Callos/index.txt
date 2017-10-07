@@ -6,7 +6,7 @@
 <body>
   <h1 style="background-color:DodgerBlue;"style="font-size:60px;">Recetas de callos</h1>
   <h3>Esta es tu web para aprender a cocinar de maneras distintas este manjar madrileño.</h3>
-  <img src="C:\Users\Raul\Desktop\Web Callos\callos-de-ternera-limpios-retoc.jpg" alt="Callos de ternera limpios">
+  <img src="/img/callos-de-ternera-limpios-retoc.jpg" alt="Callos de ternera limpios">
   <br>
   <br>
   <p style="color:MediumSeaGreen;">Los <strong>callos a la madrileña</strong> son uno de los platos más típicos del invierno madrileño.
@@ -17,7 +17,7 @@
 	relativamente barato debido al bajo coste de sus ingredientes. Junto con el cocido madrileño es un plato 
 	identificativo de la gastronomía de Madrid.</p>
 	
-  <img src="https://github.com/RaulNinoSalas/primeraweb/blob/master/Web%20Callos/img/callos-a-la-madrilena-del-restaurante-zalacain-retoc.jpg" alt="Callos del restaurante Zalacaín">
+  <img src="\img\callos-a-la-madrilena-del-restaurante-zalacain-retoc.jpg" alt="Callos del restaurante Zalacaín">
  
   <p> Este manjar es un plato tan versatil que ya grandes cocineros se han atrevido a modernizarlo con las nuevas tecnicas de cocina, como el restaurante Zalacaín.</p>
   <br>
@@ -89,7 +89,7 @@
     <td>Chorizo y morcilla<td> 
   </tr>
   </table>
-  <img src="C:\Users\Raul\Desktop\Web Callos\callos-a-la-madrilena-retoc.jpg" alt="Callos a la madrileña">
+  <img src="/img/callos-a-la-madrilena-retoc.jpg" alt="Callos a la madrileña">
   <h3>Elaboración de la receta de callos ¿Cómo se hacen los callos?<h3>
   <ol type="1">
      <li>Lava muy bien los callos y las manitas con agua limpia. Déjalos con agua y un chorrito de vinagre durante al menos media 
